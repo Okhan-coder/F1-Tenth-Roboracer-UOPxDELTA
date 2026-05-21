@@ -1,4 +1,4 @@
-# F1TENTH Roboracer — Jetson + VESC + Hokuyo LiDAR
+# F1TENTH Roboracer — Jetson + VESC + Hokuyo LiDAR + ZED
 
 PS4-controlled F1TENTH / Roboracer platform built on a Traxxas Ford Fiesta ST Rally VXL (74276-4) with a VESC 6 MkVI motor controller, Hokuyo URG-04LX LiDAR, and NVIDIA Jetson Orin Nano.
 
